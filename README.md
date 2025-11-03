@@ -34,7 +34,8 @@
     役割： GitHubで公開しているPortfolio_AI解析.ipynb は、機密情報を含まない安全なデータ（ワインデータ） を使って、解析の「ロジック」と「考察の自動化」という技術力のみを証明するデモ版です。
 
 ### システム構成図
-(https://via.placeholder.com/900x400/f0f0f0/333333?text=ここに「システム構成図（スクリーンショット 2025-11-03 15.35.35.png）」を挿入)
+![AI解析_ポートフォリオ_構造図](https://github.com/user-attachments/assets/91a84fc0-00e7-46ed-b9ee-6716bb76a8e8)
+
 
 ---
 
